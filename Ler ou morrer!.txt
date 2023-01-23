@@ -1,0 +1,42 @@
+Model from Valentino Rossi The Game
+Model by Milestone 
+
+
+(Thanks to IMTAJ, for helping me set up the add-on)
+
+Blog: http://gtamxmodssa.blogspot.pt/
+Facebook: https://www.facebook.com/GTAModsSA
+Facebook2:https://www.facebook.com/ModsGrandTheftAutoV
+Youtube: https://www.youtube.com/user/GTAModsSA
+
+Tutoriais: https://www.youtube.com/playlist?list=PLahog7jkmn2YJZteH0R6F8_YQnH-A_Qj6
+
+=================================================================================================
+
+-------HOW TO INSTALL------- 
+
+1 - Copy update folder to 
+X:\Grand Theft Auto V\ 
+
+----------------------------
+
+2 - Use OpenIV extract 
+X:\Grand Theft Auto V\update\update.rpf\common\data\dlclist.xml
+then use notepad open it,add new line. 
+
+   <Item>dlcpacks:\yzfsm2\</Item>
+
+Save it and use OpenIV replace it.
+
+----------------------------
+
+3 - The Add-on upper limit (backup your "gameconfig.xml" before replace,if u alrady replace it nothing to change)
+Replace gameconfig.xml to: 
+X:\Grand Theft Auto V/update/update.rpf/common/data 
+
+----------------------------
+
+4 - You can use Simple Trainer Spawn it by name. 
+
+    yzfsm2
+
